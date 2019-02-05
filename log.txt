@@ -1,0 +1,30 @@
+commit 9ee4660536c9ebd57381134eb8a202b7820e6bba
+Merge: 1ff257a 66c9f6c
+Author: Alex Swafford <aswafford@southern.edu>
+Date:   Tue Feb 5 15:14:27 2019 -0500
+
+    Merge branch 'work2'
+
+commit 66c9f6ce3f0c51f1cbf04ce08359e4fb319fba3d
+Author: Alex Swafford <aswafford@southern.edu>
+Date:   Tue Feb 5 15:02:31 2019 -0500
+
+    changed 'tree' to '4'.  Added '12'.
+
+commit 1ff257ae532e2a6d1cd2a0e6a575f64648df411e
+Author: Alex Swafford <aswafford@southern.edu>
+Date:   Tue Feb 5 14:58:36 2019 -0500
+
+    Changed 'Seven' to '7'.  Added '11'
+
+commit ddb2fe8d27379914b1b7c83ef07bf4ec5ed45f37
+Author: Alex Swafford <aswafford@southern.edu>
+Date:   Tue Feb 5 14:53:41 2019 -0500
+
+    changed 'Five' to '5'
+
+commit 1518180e675c333b447c1a93afbca3455560e4de
+Author: Alex Swafford <aswafford@southern.edu>
+Date:   Tue Feb 5 14:45:30 2019 -0500
+
+    this is a test commit
